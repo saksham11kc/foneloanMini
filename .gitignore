@@ -4,7 +4,7 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-# **/ adds that folder or file to gitignore no matter how deeply nested it is
+# **/ adds  folder or file to gitignore no matter how deeply nested it is
 **/resources/application.properties
 
 
